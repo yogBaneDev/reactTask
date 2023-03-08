@@ -1,0 +1,20 @@
+.navLink{
+    text-decoration: none;
+    /* position: relative;
+    display: inline-block; */
+    color: white;
+    cursor: pointer;
+}
+
+.activeClassName,.activeClassName:hover,
+.navLink:hover{
+    color: orange;
+}
+.cartButton{
+    width: 100% !important;
+}
+
+.div_css{
+    display: flex;
+    justify-content: center;
+}
